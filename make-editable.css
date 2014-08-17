@@ -1,0 +1,10 @@
+.make-editable {
+  border: 1px solid transparent;
+}
+.make-editable-buttons {
+  margin-bottom: 1.5em;
+}
+.editing {
+  border: 1px solid red;
+  background: #eee;
+}
