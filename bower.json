@@ -1,0 +1,26 @@
+{
+  "name": "make-editable",
+  "version": "0.0.0",
+  "authors": [
+    "bdtomlin <bdtomlin@gmail.com>"
+  ],
+  "main": "app/index.html",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "angular": "~1.2.22",
+    "angular-mocks": "~1.2.22",
+    "angular-route": "~1.2.22"
+  }
+}
